@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main-container{
+    background-image: url("images/max-andrey-LBR1IqlHmg4-unsplash\ \(1\).jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    opacity: .4;
+}
