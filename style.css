@@ -46,6 +46,7 @@ nav{
 
 nav ul{
     display: flex;
+    flex-wrap: wrap;
     list-style: none;
     justify-content: space-around;
 }
@@ -58,6 +59,31 @@ nav li{
 
 nav li:hover{
     background-color: azure;
+}
+
+.arrow{
+    display: block;
+    width: 1px;
+    height: 20vh;
+    background-color: azure;
+    margin: 16px;
+}
+
+.ig{
+    color: blueviolet;
+    margin-left: 7px;
+    margin-bottom: 5px;
+}
+.fb{
+    color: blue;
+    margin-left: 7px;
+    margin-bottom: 5px;
+
+}
+.tw{
+    color: rgb(86, 156, 89);
+    margin-left: 7px;
+
 }
 
 
